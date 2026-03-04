@@ -1,7 +1,7 @@
-#SpaceX Falcon 9 Landing Prediction
+
+# SpaceX Falcon 9 Landing Prediction
 
 Applied Data Science Capstone Project
-
 ##Project Overview
 
 This project analyzes historical SpaceX Falcon 9 launch data to predict whether the first stage booster will land successfully.
@@ -16,14 +16,14 @@ The project follows a complete data science workflow:
 4. Interactive Visual Analytics
 5. Predictive Modeling (Classification)
 
-##Business Problem
+## Business Problem
 
 Can we build a machine learning model that predicts whether the Falcon 9 first-stage booster will land successfully using historical launch data?
 
 Target Variable:
 Landing Outcome (1 = Success, 0 = Failure)
 
-##Data Collection
+## Data Collection
 
 Data was collected from two primary sources:
 
